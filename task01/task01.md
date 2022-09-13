@@ -15,7 +15,7 @@ PyTorch是由Facebook人工智能研究小组开发的一种基于Lua编写的To
 
 ## 1.2 安装
 
-![image-20220913162434031](assets\1.png)
+![image-20220913162434031](assets%5C1.png)
 
 我事先已安装好了。
 
@@ -290,4 +290,4 @@ tensor(True)
 
 架构图：
 
-![image-20220913180658801](assets\2.png)
+![image-20220913180658801](assets%5C2.png)
